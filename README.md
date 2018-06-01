@@ -4,8 +4,6 @@
 :iphone:   (11) 97375 - 8311 <br>
 :envelope:  filipedainezes@gmail.com
 
-Meu nome é Filipe Daineze, sou Desenvolvedor Web apaixonado por Front End, com grande interesse em Javascript. Sou músico nas horas vagas e adoro um bom jogo de corrida para distrair um pouco nos momentos de lazer.
-
 ## Formação
 Ensino Médio, Escola Estadual Prof. José Jorge (Concluído em 2010) <br>
 
@@ -90,9 +88,9 @@ Jovem Aprendiz (suporte técnico)
 *  [Codepen](https://codepen.io/jimmyfilips/)
 *  [GitHub](https://www.github.com/jimmyfilips/)
 
-<br><br>
+<br>
 
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
-Inspirado no [richmanzoli](https://github.com/richmanzoli/curriculo).
+Inspirado no curriculum de [richmanzoli](https://github.com/richmanzoli/curriculo).

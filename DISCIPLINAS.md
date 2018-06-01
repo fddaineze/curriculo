@@ -3,9 +3,12 @@
 
 ### Sistemas para Internet
 
-#### Obrigatórias
+#### Legenda
+* :heavy_check_mark:  Completo
+* :heavy_plus_sign: Em Curso
+* :heavy_minus_sign:  Não Iniciado
 
-| Nome                                                                        | Período |   Concluido? |
+| Nome                                                                        | Período |   Conclusão  |
 | --------------------------------------------------------------------------- |:-:| :----------------: |
 | Padrões de Projeto de Sítios Internet I                                     | 1 | :heavy_check_mark: |
 | Algoritmos e Lógica de Programação                                          | 1 | :heavy_check_mark: |
@@ -15,13 +18,13 @@
 | Inglês I                                                                    | 1 | :heavy_check_mark: |
 | Leitura e Produção de Textos                                                | 1 | :heavy_check_mark: |
 | Fundamentos de Matemática Elementar                                         | 1 | :heavy_check_mark: |
-| Padrões de Projeto de Sítios Internet II                                    | 2 | :heavy_check_mark: |
-| Estrutura de Dados                                                          | 2 | :heavy_check_mark: |
-| Redes e Internet                                                            | 2 | :heavy_check_mark: |
-| Legislação aplicada à Internet                                              | 2 | :heavy_check_mark: |
-| Práticas de Design                                                          | 2 | :heavy_check_mark: |
-| Inglês II                                                                   | 2 | :heavy_check_mark: |
-| Matemática Discreta                                                         | 2 | :heavy_check_mark: |
+| Padrões de Projeto de Sítios Internet II                                    | 2 | :heavy_plus_sign:  |
+| Estrutura de Dados                                                          | 2 | :heavy_plus_sign:  |
+| Redes e Internet                                                            | 2 | :heavy_plus_sign:  |
+| Legislação aplicada à Internet                                              | 2 | :heavy_plus_sign:  |
+| Práticas de Design                                                          | 2 | :heavy_plus_sign:  |
+| Inglês II                                                                   | 2 | :heavy_plus_sign:  |
+| Matemática Discreta                                                         | 2 | :heavy_plus_sign:  |
 | Programação de Sítios Internet                                              | 3 | :heavy_minus_sign: |
 | Servidores e seus Sistemas Operacionais                                     | 3 | :heavy_minus_sign: |
 | Banco de Dados e Internet I                                                 | 3 | :heavy_minus_sign: |
