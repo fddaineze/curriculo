@@ -4,7 +4,7 @@
 :iphone:   (11) 97375 - 8311 <br>
 :envelope:  filipedainezes@gmail.com
 
-[ Curriculum em PDF ](goo.gl/Dbkfy3)
+[ Curriculum em PDF ](https://goo.gl/Dbkfy3)
 
 ## Formação
 Ensino Médio, Escola Estadual Prof. José Jorge (Concluído em 2010) <br>
