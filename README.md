@@ -95,4 +95,4 @@ Jovem Aprendiz (suporte técnico)
 ## Me ajude!
 Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br>
 
-Inspirado no curriculum de [richmanzoli](https://github.com/richmanzoli/curriculo).
+Inspirado no curriculum de [richmanzoli](https://github.com/richmanzoli/curriculo) e [davidallysson](https://github.com/davidallysson/curriculo).
