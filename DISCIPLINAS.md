@@ -18,26 +18,26 @@
 | Inglês I                                                                    | 1 | :heavy_check_mark: |
 | Leitura e Produção de Textos                                                | 1 | :heavy_check_mark: |
 | Fundamentos de Matemática Elementar                                         | 1 | :heavy_check_mark: |
-| Padrões de Projeto de Sítios Internet II                                    | 2 | :heavy_plus_sign:  |
-| Estrutura de Dados                                                          | 2 | :heavy_plus_sign:  |
-| Redes e Internet                                                            | 2 | :heavy_plus_sign:  |
-| Legislação aplicada à Internet                                              | 2 | :heavy_plus_sign:  |
-| Práticas de Design                                                          | 2 | :heavy_plus_sign:  |
-| Inglês II                                                                   | 2 | :heavy_plus_sign:  |
-| Matemática Discreta                                                         | 2 | :heavy_plus_sign:  |
-| Programação de Sítios Internet                                              | 3 | :heavy_minus_sign: |
-| Servidores e seus Sistemas Operacionais                                     | 3 | :heavy_minus_sign: |
-| Banco de Dados e Internet I                                                 | 3 | :heavy_minus_sign: |
-| Engenharia de Software para WEB                                             | 3 | :heavy_minus_sign: |
-| Estatística                                                                 | 3 | :heavy_minus_sign: |
-| Acessibilidade                                                              | 3 | :heavy_minus_sign: |
-| Inglês III                                                                  | 3 | :heavy_minus_sign: |
+| Padrões de Projeto de Sítios Internet II                                    | 2 | :heavy_check_mark: |
+| Estrutura de Dados                                                          | 2 | :heavy_check_mark: |
+| Redes e Internet                                                            | 2 | :heavy_check_mark: |
+| Legislação aplicada à Internet                                              | 2 | :heavy_check_mark: |
+| Práticas de Design                                                          | 2 | :heavy_check_mark: |
+| Inglês II                                                                   | 2 | :heavy_check_mark: |
+| Matemática Discreta                                                         | 2 | :heavy_check_mark: |
+| Programação de Sítios Internet                                              | 3 | :heavy_plus_sign:  |
+| Servidores e seus Sistemas Operacionais                                     | 3 | :heavy_plus_sign:  |
+| Banco de Dados e Internet I                                                 | 3 | :heavy_plus_sign:  |
+| Engenharia de Software para WEB                                             | 3 | :heavy_plus_sign:  |
+| Estatística                                                                 | 3 | :heavy_plus_sign:  |
+| Acessibilidade                                                              | 3 | :heavy_plus_sign:  |
+| Inglês III                                                                  | 3 | :heavy_plus_sign:  |
+| Tópicos Especiais em Sistemas para Internet I                               | 4 | :heavy_plus_sign:  |
 | Projeto de Navegação e Interação                                            | 4 | :heavy_minus_sign: |
 | Segurança em Sistemas para Internet                                         | 4 | :heavy_minus_sign: |
 | Banco de Dados e Internet II                                                | 4 | :heavy_minus_sign: |
 | Desenvolvimento para Servidores I                                           | 4 | :heavy_minus_sign: |
 | Prática de Gestão de Projetos                                               | 4 | :heavy_minus_sign: |
-| Tópicos Especiais em Sistemas para Internet I                               | 4 | :heavy_minus_sign: |
 | Inglês IV                                                                   | 4 | :heavy_minus_sign: |
 | Projeto de prototipagem e usabilidade                                       | 5 | :heavy_minus_sign: |
 | Desenvolvimento para dispositivos móveis I                                  | 5 | :heavy_minus_sign: |
