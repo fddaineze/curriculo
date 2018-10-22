@@ -76,7 +76,7 @@ Jovem Aprendiz (suporte técnico)
 
 ## Projetos
 * [Site Pessoal](https://jimmyfilips.github.io/) (em produção)
-* [PUBGShop](https://jimmyfilips.github.io/demo/PUBG/) (Mesmo Cliente)
+* [PUBGShop](https://jimmyfilips.github.io/demo/PUBG/)
 * [Acts 26:18](https://acts2618.github.io/)
 
 ## Cursos Completos
