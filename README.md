@@ -43,17 +43,17 @@ Jovem Aprendiz (suporte técnico)
 ## Conhecimentos
 
 ### Gerais
-* Lógica de Programação.
-* Inglês, leitura.
+* Scrum.
+* Extreme programming.
+* Inglês técnico.
 
 ### Sistemas Operacionais
-* Linux.
-* Windows.
+* Linux e Windows.
 
 ### Front-end
 * HTML.
   * Markdown.
-* CSS (Design Responsivo).
+* CSS.
   * CSSGrid.
   * Flexbox.
 
@@ -69,19 +69,20 @@ Jovem Aprendiz (suporte técnico)
 
 ### Banco de Dados
 * MySQL.
+* SQL Server
 
 ### Sistemas de controle de versão
 * Git.
 
 ## Projetos
-* [Site Pessoal](https://jimmyfilips.github.io/)
-* [SuperMC](https://supermc.com.br/)
+* [Site Pessoal](https://jimmyfilips.github.io/) (em produção)
+* [MCShop](http://mcshopp.com.br/)
+* [PUBGShop](https://jimmyfilips.github.io/demo/PUBG/) (Mesmo Cliente)
 * [Acts 26:18](https://acts2618.github.io/)
 
 ## Cursos Completos
 * Web Designer (HTML5, CSS, JavaScript, jQuery, UI e UX Design)
 * Curso Aprendizagem de Gestão e Negócios – SENAC
-* MS Excel 2007 – Intermediário – Escola Virtual Bradesco
 * Montagem e manutenção de computadores – Master Company
 
 ## Redes Sociais
