@@ -61,11 +61,12 @@ Jovem Aprendiz (suporte técnico)
   * Responsive Web.
   * CSSGrid.
   * Flexbox.
+  * Styled Components
 * UI/UX Design e Tipografia.
 
 ### UI Kits
 * Skeleton.
-* Bootstrap4.
+* Bootstrap 3 e 4.
 
 ### Linguagens de Programação
 * PHP.
