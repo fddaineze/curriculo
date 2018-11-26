@@ -55,32 +55,28 @@ Jovem Aprendiz (suporte técnico)
 * Linux e Windows.
 
 ### Front-end
-* HTML.
+* HTML5.
   * Markdown.
-* CSS.
+* CSS3.
   * Responsive Web.
   * CSSGrid.
   * Flexbox.
   * Styled Components
 * UI/UX Design e Tipografia.
-
-### UI Kits
-* Skeleton.
+* Skeleton. (UI Kit)
 * Bootstrap 3 e 4.
 
 ### Linguagens de Programação
 * PHP.
-* JavaScript.
+* JavaScript ES6.
 * jQuery.
 
 ### Banco de Dados
 * MySQL.
 * SQL Server.
 
-### Sistemas de controle de versão
-* Git.
-
 ### Outros
+* Git.
 * WebPI.
 
 ## Projetos
