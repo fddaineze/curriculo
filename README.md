@@ -14,6 +14,10 @@ Ensino Superior, Fatec São Roque - Sistemas para Internet (Conclusão em 2020)<
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#sistemas-para-internet)
 
 ## Experência Profissional
+* (2018 -  Atual) <br>
+**Wipro Brasil** -
+Analista de Redes
+
 * (2013 -  2016) <br>
 **Stefanini IT Solutions** -
 Analista de Suporte Nível II
@@ -54,32 +58,37 @@ Jovem Aprendiz (suporte técnico)
 * HTML.
   * Markdown.
 * CSS.
+  * Responsive Web.
   * CSSGrid.
   * Flexbox.
+* UI/UX Design e Tipografia.
 
 ### UI Kits
 * Skeleton.
-* Bootstrap.
+* Bootstrap4.
 
 ### Linguagens de Programação
-* Java.
 * PHP.
 * JavaScript.
 * jQuery.
 
 ### Banco de Dados
 * MySQL.
-* SQL Server
+* SQL Server.
 
 ### Sistemas de controle de versão
 * Git.
 
+### Outros
+* WebPI.
+
 ## Projetos
 * [Site Pessoal](https://jimmyfilips.github.io/) (em produção)
-* [PUBGShop](https://jimmyfilips.github.io/demo/PUBG/)
+* [U+pgrade](https://jimmyfilips.github.io/demo/upgrade/)
 * [Acts 26:18](https://acts2618.github.io/)
 
 ## Cursos Completos
+* Bootstrap 4
 * Web Designer (HTML5, CSS, JavaScript, jQuery, UI e UX Design)
 * Curso Aprendizagem de Gestão e Negócios – SENAC
 * Montagem e manutenção de computadores – Master Company
