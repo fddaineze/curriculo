@@ -25,31 +25,31 @@
 | Práticas de Design                                                          | 2 | :heavy_check_mark: |
 | Inglês II                                                                   | 2 | :heavy_check_mark: |
 | Matemática Discreta                                                         | 2 | :heavy_check_mark: |
-| Programação de Sítios Internet                                              | 3 | :heavy_plus_sign:  |
-| Servidores e seus Sistemas Operacionais                                     | 3 | :heavy_plus_sign:  |
-| Banco de Dados e Internet I                                                 | 3 | :heavy_plus_sign:  |
-| Engenharia de Software para WEB                                             | 3 | :heavy_plus_sign:  |
-| Estatística                                                                 | 3 | :heavy_plus_sign:  |
-| Acessibilidade                                                              | 3 | :heavy_plus_sign:  |
-| Inglês III                                                                  | 3 | :heavy_plus_sign:  |
-| Tópicos Especiais em Sistemas para Internet I                               | 4 | :heavy_plus_sign:  |
-| Projeto de Navegação e Interação                                            | 4 | :heavy_minus_sign: |
-| Segurança em Sistemas para Internet                                         | 4 | :heavy_minus_sign: |
-| Banco de Dados e Internet II                                                | 4 | :heavy_minus_sign: |
-| Desenvolvimento para Servidores I                                           | 4 | :heavy_minus_sign: |
-| Prática de Gestão de Projetos                                               | 4 | :heavy_minus_sign: |
-| Inglês IV                                                                   | 4 | :heavy_minus_sign: |
-| Projeto de prototipagem e usabilidade                                       | 5 | :heavy_minus_sign: |
-| Desenvolvimento para dispositivos móveis I                                  | 5 | :heavy_minus_sign: |
-| Negócios e marketing eletrônicos                                            | 5 | :heavy_minus_sign: |
-| Desenvolvimento para Servidores II                                          | 5 | :heavy_minus_sign: |
-| Tópicos especiais em Sistemas para Internet II                              | 5 | :heavy_minus_sign: |
-| Projeto de TG em Sistemas para Internet I                                   | 5 | :heavy_minus_sign: |
-| Inglês V                                                                    | 5 | :heavy_minus_sign: |
-| Projeto de encontrabilidade                                                 | 6 | :heavy_minus_sign: |
-| Desenvolvimento para dispositivos móveis II                                 | 6 | :heavy_minus_sign: |
-| Arquitetura orientada a serviços                                            | 6 | :heavy_minus_sign: |
-| Criação de empresas para Internet                                           | 6 | :heavy_minus_sign: |
-| Tópicos especiais em Sistemas para Internet III                             | 6 | :heavy_minus_sign: |
-| Projeto de TG em Sistemas para Internet II 2                                | 6 | :heavy_minus_sign: |
-| Inglês VI                                                                   | 6 | :heavy_minus_sign: |
+| Programação de Sítios Internet                                              | 3 | :heavy_check_mark: |
+| Servidores e seus Sistemas Operacionais                                     | 3 | :heavy_check_mark: |
+| Banco de Dados e Internet I                                                 | 3 | :heavy_check_mark: |
+| Engenharia de Software para WEB                                             | 3 | :heavy_check_mark: |
+| Estatística                                                                 | 3 | :heavy_check_mark: |
+| Acessibilidade                                                              | 3 | :heavy_check_mark: |
+| Inglês III                                                                  | 3 | :heavy_check_mark: |
+| Tópicos Especiais em Sistemas para Internet I                               | 4 | :heavy_check_mark: |
+| Projeto de Navegação e Interação                                            | 4 | :heavy_check_mark: |
+| Segurança em Sistemas para Internet                                         | 4 | :heavy_check_mark: |
+| Banco de Dados e Internet II                                                | 4 | :heavy_check_mark: |
+| Desenvolvimento para Servidores I                                           | 4 | :heavy_check_mark: |
+| Prática de Gestão de Projetos                                               | 4 | :heavy_check_mark: |
+| Inglês IV                                                                   | 4 | :heavy_check_mark: |
+| Projeto de prototipagem e usabilidade                                       | 5 | :heavy_check_mark: |
+| Desenvolvimento para dispositivos móveis I                                  | 5 | :heavy_check_mark: |
+| Desenvolvimento para Servidores II                                          | 5 | :heavy_check_mark: |
+| Tópicos especiais em Sistemas para Internet II                              | 5 | :heavy_check_mark: |
+| Inglês V                                                                    | 5 | :heavy_check_mark: |
+| Negócios e marketing eletrônicos                                            | 5 | :heavy_plus_sign:  |
+| Projeto de TG em Sistemas para Internet I                                   | 5 | :heavy_plus_sign:  |
+| Projeto de encontrabilidade                                                 | 6 | :heavy_plus_sign:  |
+| Desenvolvimento para dispositivos móveis II                                 | 6 | :heavy_plus_sign:  |
+| Arquitetura orientada a serviços                                            | 6 | :heavy_plus_sign:  |
+| Criação de empresas para Internet                                           | 6 | :heavy_plus_sign:  |
+| Tópicos especiais em Sistemas para Internet III                             | 6 | :heavy_plus_sign:  |
+| Projeto de TG em Sistemas para Internet II 2                                | 6 | :heavy_plus_sign:  |
+| Inglês VI                                                                   | 6 | :heavy_plus_sign:  |
